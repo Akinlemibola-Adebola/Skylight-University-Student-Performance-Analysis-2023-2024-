@@ -1,5 +1,5 @@
 # INTRODUCTION
-Skylight University is a private institution in the United States. This analysis evaluates student performance across departments for the 2023/2024 academic session. The goal is to uncover patterns in student success, identify academic gaps, and understand the effect of factors such as attendance, parental income, and extracurricular activities on student outcomes.
+Skylight University is a private institution and this analysis evaluates student performance across departments for the 2023/2024 academic session. The goal is to uncover patterns in student success, identify academic gaps, and understand the effect of factors such as attendance, parental income, and extracurricular activities on student outcomes.
 
 # Objectives
 - Identify the best-performing departments and students
